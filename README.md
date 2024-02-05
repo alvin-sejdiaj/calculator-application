@@ -10,7 +10,7 @@ Welcome to the Calculator Application! This simple command-line calculator allow
 ### Installation
 1. Clone this repository to your local machine.
     ```bash
-    git clone https://github.com/your-username/calculator-application.git
+    git clone https://github.com/alvin-sejdiaj/calculator-application.git
     cd calculator-application
     ```
 
